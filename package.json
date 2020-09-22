@@ -1,0 +1,26 @@
+{
+  "name": "icpac",
+  "version": "0.1.0",
+  "description": "A project template for Koop",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "mocha 'test/**/*.test.js'",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "config": "^3.3.1",
+    "koop": "^4.0.0",
+    "koop-provider-geonode": "^0.1.0"
+  },
+  "devDependencies": {
+    "@koopjs/cli": "^0.6.2",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1"
+  },
+  "repository": "",
+  "private": true,
+  "keywords": [
+    "koop",
+    "app"
+  ]
+}

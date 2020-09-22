@@ -1,0 +1,10 @@
+{ 
+    "geonodeProvider": {
+      "hosts": {   
+        "icpac": {       
+          "url": "http://geoportal.icpac.net",        
+          "idField": "OBJECTID"
+        }
+            }
+}
+  }
